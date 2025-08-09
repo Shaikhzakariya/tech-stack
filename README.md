@@ -1,31 +1,25 @@
+<!-- Futuristic Tech Stack Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:FF00FF&height=70&section=header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=435&lines=My+Tech+Arsenal;Future+Ready+Developer;AI+%26+Full-Stack+Specialist" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <!-- Row 1 -->
-  <img alt="Python" src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00E0FF"/>
-  <img alt="Django" src="https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=00E0FF"/>
-  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+  <img src="https://img.shields.io/badge/Python-00F0FF?style=for-the-badge&logo=python&logoColor=black&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Django-00FFB3?style=for-the-badge&logo=django&logoColor=black&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4BFF?style=for-the-badge&logo=streamlit&logoColor=black&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FFA500?style=for-the-badge&logo=tensorflow&logoColor=black&labelColor=0D1117"/>
 </p>
 
 <p align="center">
-  <!-- Row 2 -->
-  <img alt="React" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=00FF00"/>
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=00E0FF"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=316192"/>
+  <img src="https://img.shields.io/badge/React-00F0FF?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Node.js-00FF00?style=for-the-badge&logo=node.js&logoColor=black&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/FastAPI-00E7FF?style=for-the-badge&logo=fastapi&logoColor=black&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-00BFFF?style=for-the-badge&logo=postgresql&logoColor=black&labelColor=0D1117"/>
 </p>
 
 <p align="center">
-  <!-- Row 3 -->
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=2477A6"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=microsoftazure&logoColor=0078D4"/>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:FF00FF&height=60&section=footer"/>
+  <img src="https://img.shields.io/badge/MySQL-00F0FF?style=for-the-badge&logo=mysql&logoColor=black&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/MongoDB-00FF88?style=for-the-badge&logo=mongodb&logoColor=black&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Azure-00CFFF?style=for-the-badge&logo=microsoft-azure&logoColor=black&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black&labelColor=0D1117"/>
 </p>
